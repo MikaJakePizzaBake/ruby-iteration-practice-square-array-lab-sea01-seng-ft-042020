@@ -18,5 +18,5 @@ end
 
 s = s_array(array)
 
-binding.pry 
+binding.pry
 0
