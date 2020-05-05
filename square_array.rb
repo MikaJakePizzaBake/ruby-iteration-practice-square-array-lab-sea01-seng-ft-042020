@@ -15,3 +15,8 @@ def s_array(array)
   end
 
 end
+
+s = s_array(array)
+
+binding.pry 
+0
