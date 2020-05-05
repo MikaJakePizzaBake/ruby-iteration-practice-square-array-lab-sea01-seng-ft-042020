@@ -9,14 +9,3 @@ def square_array(array)
 
 end
 
-def s_array(array)
-  array.map do |element|
-    element*element
-  end
-
-end
-
-s = s_array(array)
-
-binding.pry
-0
